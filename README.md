@@ -1,5 +1,5 @@
 # IMRFS
-This is the dataset for [Illumination modulation for reflective and fluorescent separation](https://opg.optica.org/ol/abstract.cfm?uri=ol-45-5-1120), Optics Letters 2019, by Ying Fu, Yunhao Zou, Liheng Bian, Yuxiang Guo, and Hua Huang.
+This is the dataset for [Illumination modulation for reflective and fluorescent separation](https://opg.optica.org/ol/abstract.cfm?uri=ol-45-5-1120), Optics Letters 2020, by Ying Fu, Yunhao Zou, Liheng Bian, Yuxiang Guo, and Hua Huang.
 
 ## Optical System 
 Considering that high frequency data can facilitate the separation of reflectance and fluorescence, we build a novel illumination modulation system, which can modulate an arbitrary off-the-shelf light source to a high frequency one. The optical system is independent of the spectral distribution of the original light source.
